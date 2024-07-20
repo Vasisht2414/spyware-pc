@@ -1,5 +1,6 @@
-# spyware-pc
+NOT A REMOTE SPYWARE
 *****FOR EDUCATIONAL PURPOSE ONLY*****
+
 Ethical Considerations
 Before proceeding with running or distributing this script, it is crucial to consider the ethical and legal implications. This script performs activities that could be considered intrusive or illegal, such as keylogging and capturing screenshots without user consent. Ensure you have proper authorization and consent before using such a tool.
 
