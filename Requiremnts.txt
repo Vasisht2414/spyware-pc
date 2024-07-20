@@ -1,0 +1,6 @@
+NEED TO INSTALL PYTHON LIBRARIES
+pynput
+tkinter
+PIL
+plyer
+shutil
