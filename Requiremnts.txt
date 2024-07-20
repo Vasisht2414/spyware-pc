@@ -4,3 +4,6 @@ tkinter
 PIL
 plyer
 shutil
+
+the info are stored in folder named mainspy2\
+need python3 
